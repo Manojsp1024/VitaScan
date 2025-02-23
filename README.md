@@ -16,7 +16,7 @@ Notebooks: Jupyter notebooks for experimentation.
 
 **Installation & Usage**
 
-Clone Repository: git clone 
+Clone Repository: git clone https://github.com/Manojsp1024/VitaScan.git
 Setup Virtual Environment & Install Dependencies:
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
